@@ -13,7 +13,7 @@ warmHugs = warmHugs.replace("like", "love"), "\n");
 
 
 // QUESTION 2a
-let beenImpaled = "Oh, look at that. I've been impaled."
+let beenImpaled = "Oh, look at that. I've been impaled.";
 
 
 // QUESTION 2b
@@ -55,7 +55,7 @@ console.log(Math.sqrt(2), "\n");
 
 // BONUS 9
 console.log("     =====BONUS 9=====");
-let newRandomNumber = Math.floor(Math.random() * 16) +7
+let newRandomNumber = Math.floor(Math.random() * (16 + 1)) +7
 console.log(newRandomNumber);
 
 
